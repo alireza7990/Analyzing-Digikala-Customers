@@ -1,0 +1,3 @@
+This project focuses on simulating and analyzing the performance of a dual-line train station using an M/G/2 queuing system. Using the R programming language, a simulation model is developed to mimic the operations of the station under various conditions. 
+The simulation considers factors such as passenger arrivals, service times, and queuing parameters to evaluate metrics like delays, waiting times, and overall station performance. 
+The project leverages R's computational and visualization capabilities to present comprehensive results. It provides insights into the behavior of the queuing system and enhances understanding of train station operations in real-world scenarios.
